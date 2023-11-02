@@ -50,7 +50,7 @@ I'm Kaniel and I'm a software developer. I'm from Texas, working on a personal p
 
 #### Other Stuff
 
-![](https://img.shields.io/badge/NeoVim-%23000000.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/NeoVim-%23092E20.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
