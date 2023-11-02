@@ -2,8 +2,8 @@
 
 I'm Kaniel and I'm a software developer. I'm from Texas, working on a personal project, [Banter](https://github.com/piratey7007/banter).
 
-<a href="https://github.com/[YourGitHubUsername]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piratey7007&show_icons=true&theme=midnight-purple" />
+<a href="https://github.com/kanielrkirby">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanielrkirby&show_icons=true&theme=midnight-purple" />
 </a>
 
 ## 🔧 Technologies & Tools
