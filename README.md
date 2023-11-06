@@ -64,7 +64,6 @@ I'm Kaniel and I'm a software developer. I'm from Texas, working on a personal p
 
 - [LinkedIn](https://www.linkedin.com/in/kanielrkirby/)
 - [Portfolio](https://kanielrkirby.com/)
-- [Reddit](https://reddit.com/user/CompetitiveAd7245)
 - Discord: `_cats.`
 
 ## 📚 Currently Learning
