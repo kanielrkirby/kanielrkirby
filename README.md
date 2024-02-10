@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Kaniel and I'm a software developer. I'm from Texas, working on a personal project, [Banter](https://github.com/piratey7007/banter).
+I'm Kaniel and I'm a software developer, tech enthusiast, life-long learner, and NeoVim user. I'm from Texas, working on learning the information that goes into CompTIA certifications.
 
 <a href="https://github.com/kanielrkirby">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanielrkirby&show_icons=true&theme=midnight-purple" />
@@ -12,8 +12,11 @@ I'm Kaniel and I'm a software developer. I'm from Texas, working on a personal p
 
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![](https://img.shields.io/badge/ProxMox-FF6400?style=for-the-badge&logo=proxmox&logoColor=white)
+![](https://img.shields.io/badge/OpenMediaVault-3AB3FF?style=for-the-badge&logo=openmediavault&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![](https://img.shields.io/badge/OpenMediaVault-3AB3FF?style=for-the-badge&logo=openmediavault&logoColor=white)
+![](https://img.shields.io/badge/Windows-0082FF?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
 #### Languages
@@ -64,20 +67,13 @@ I'm Kaniel and I'm a software developer. I'm from Texas, working on a personal p
 
 - [LinkedIn](https://www.linkedin.com/in/kanielrkirby/)
 - [Portfolio](https://kanielrkirby.com/)
+- [Email](piratey7007@runbox.com)
 - Discord: `_cats.`
 
 ## 📚 Currently Learning
 
-- Golang Concurrency
-- Redis (and RESP)
-- Django and its ORM
-- Vue
+- Hardware (motherboards, CPUs, RAM, etc.)
+- Homelabs (Linux, OMV, NAS, ProxMox, etc.)
+- OSS Contributions ([Gopass](https://github.com/gopasspw/gopass), [Astro](https://github.com/withastro/astro), [Podman](https://github.com/containers/podman), etc.)
 
-## 🏆 Certifications
-
-- freeCodeCamp
-  - Responsive Design
-  - Front End Libraries
-  - JavaScript Data Structures and Algorithms
-
-_Last Updated on Oct 27, 2023_
+_Last Updated on Februrary 10th, 2024_
