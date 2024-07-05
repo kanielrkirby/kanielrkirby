@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Kaniel. Currently using NeoVim, NixOS, and hopes and dreams to run my life. Learning all about Rust-WebAssembly and legacy .NET (separately, thankfully).
+I'm Kaniel. Currently using Helix, NixOS, and hopes and dreams to run my life. Learning all about Rust-WebAssembly and legacy .NET (separately, thankfully).
 
 ## 🔧 Technologies & Tools
 
@@ -10,7 +10,7 @@ These mostly include things I'm working with recently, not all-inclusive of cour
 
 ![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0082FF?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 #### Languages
 
@@ -30,17 +30,17 @@ These mostly include things I'm working with recently, not all-inclusive of cour
 
 #### Frameworks and Platforms
 
-![](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/Astro-372A71.svg?&style=for-the-badge&logo=astro&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 #### Rapid-fire
 
 **Editor:**
 
-![](https://img.shields.io/badge/NeoVim-092E20.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/Helix-281733.svg?&style=for-the-badge&logo=helix&logoColor=white)
 
 **Messaging:**
 
@@ -71,8 +71,8 @@ These mostly include things I'm working with recently, not all-inclusive of cour
 
 ## 📚 Currently Learning
 
-- OSS Contributions ([`nom`](https://github.com/guyfedwards/nom), [`pastel`](https://github.com/sharkdp/pastel), [`nixpkgs`](https://github.com/NixOS/nixpkgs), etc.)
+- OSS Contributions ([`Helix Editor`](https://github.com/helix-editor/helix), [`GitUI`](https://github.com/extrawurst/gitui), [`uutils`](https://github.com/uutils/util-linux) etc.)
 
 ---
 
-_Last updated on June 6th, 2024_
+_Last updated on July 4th (woohoo), 2024_
